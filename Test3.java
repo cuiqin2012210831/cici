@@ -6,7 +6,7 @@ public class Test3 {
 		/*0000 0000
 		 *0000 0110 
 		 *1111 1111 +1=  10000 0000
-		 * */fffff
+		 * */fffffbbbbbbbbbbbbbbbbbbbbbb
 		flag = false;
 		//flag = 1;错误
 		/*000
